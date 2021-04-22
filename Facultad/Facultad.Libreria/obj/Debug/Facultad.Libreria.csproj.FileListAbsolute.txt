@@ -1,0 +1,6 @@
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\obj\Debug\Facultad.Libreria.csprojAssemblyReference.cache
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\obj\Debug\Facultad.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\bin\Debug\Facultad.Libreria.dll
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\bin\Debug\Facultad.Libreria.pdb
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\obj\Debug\Facultad.Libreria.dll
+C:\Users\Matias\source\repos\Facultad\Facultad.Libreria\obj\Debug\Facultad.Libreria.pdb

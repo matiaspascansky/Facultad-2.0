@@ -1,0 +1,10 @@
+C:\Users\Matias\source\repos\Facultad\Facultad\obj\Debug\Facultad.csprojAssemblyReference.cache
+C:\Users\Matias\source\repos\Facultad\Facultad\obj\Debug\Facultad.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Facultad\Facultad\bin\Debug\Facultad.exe.config
+C:\Users\Matias\source\repos\Facultad\Facultad\bin\Debug\Facultad.exe
+C:\Users\Matias\source\repos\Facultad\Facultad\bin\Debug\Facultad.pdb
+C:\Users\Matias\source\repos\Facultad\Facultad\bin\Debug\Facultad.Libreria.dll
+C:\Users\Matias\source\repos\Facultad\Facultad\bin\Debug\Facultad.Libreria.pdb
+C:\Users\Matias\source\repos\Facultad\Facultad\obj\Debug\Facultad.csproj.CopyComplete
+C:\Users\Matias\source\repos\Facultad\Facultad\obj\Debug\Facultad.exe
+C:\Users\Matias\source\repos\Facultad\Facultad\obj\Debug\Facultad.pdb
